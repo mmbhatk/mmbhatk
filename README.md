@@ -27,8 +27,4 @@ I'm currently a software engineer at <b>Target Corporation</b>.
 <a href="https://in.linkedin.com/in/mmbhatk">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="www.google.com"/>
 </a>
-
-<a href="https://github.com/mmbhatk">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 </div>
