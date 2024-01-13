@@ -1,7 +1,7 @@
 ## Hello! Manasvi here :)
 
 
-I'm currently a software engineer at <b>Target Corporation</b>.
+I'm currently a software engineer at <b>Google</b>.
 <img src="https://komarev.com/ghpvc/?username=mmbhatk&color=red&label=Visitors" align="right"/>
 
 #### Languages:
